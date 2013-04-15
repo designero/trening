@@ -1,0 +1,4 @@
+trening
+=======
+
+trening gita
